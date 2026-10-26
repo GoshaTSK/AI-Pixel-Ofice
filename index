@@ -15,7 +15,7 @@
       repeating-linear-gradient(0deg, rgba(255,255,255,0.012) 0 1px, transparent 1px 3px);
     font-family:'Courier New', ui-monospace, monospace;
     color:#c8d4e8; padding:20px; gap:18px; flex-wrap:wrap;
-  }
+  } 
   canvas{
     display:block;
     width:min(92vw, 1152px);
